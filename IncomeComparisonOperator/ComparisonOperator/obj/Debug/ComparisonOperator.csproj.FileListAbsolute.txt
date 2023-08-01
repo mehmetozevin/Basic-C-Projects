@@ -1,0 +1,7 @@
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\ComparisonOperator\ComparisonOperator\bin\Debug\ComparisonOperator.exe.config
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\ComparisonOperator\ComparisonOperator\bin\Debug\ComparisonOperator.exe
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\ComparisonOperator\ComparisonOperator\bin\Debug\ComparisonOperator.pdb
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\ComparisonOperator\ComparisonOperator\obj\Debug\ComparisonOperator.csproj.AssemblyReference.cache
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\ComparisonOperator\ComparisonOperator\obj\Debug\ComparisonOperator.csproj.CoreCompileInputs.cache
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\ComparisonOperator\ComparisonOperator\obj\Debug\ComparisonOperator.exe
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\ComparisonOperator\ComparisonOperator\obj\Debug\ComparisonOperator.pdb
