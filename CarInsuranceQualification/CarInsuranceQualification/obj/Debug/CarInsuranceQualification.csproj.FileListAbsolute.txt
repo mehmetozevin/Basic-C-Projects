@@ -1,0 +1,7 @@
+C:\Users\Labgrove1\source\repos\CarInsuranceQualification\CarInsuranceQualification\bin\Debug\CarInsuranceQualification.exe.config
+C:\Users\Labgrove1\source\repos\CarInsuranceQualification\CarInsuranceQualification\bin\Debug\CarInsuranceQualification.exe
+C:\Users\Labgrove1\source\repos\CarInsuranceQualification\CarInsuranceQualification\bin\Debug\CarInsuranceQualification.pdb
+C:\Users\Labgrove1\source\repos\CarInsuranceQualification\CarInsuranceQualification\obj\Debug\CarInsuranceQualification.csproj.AssemblyReference.cache
+C:\Users\Labgrove1\source\repos\CarInsuranceQualification\CarInsuranceQualification\obj\Debug\CarInsuranceQualification.csproj.CoreCompileInputs.cache
+C:\Users\Labgrove1\source\repos\CarInsuranceQualification\CarInsuranceQualification\obj\Debug\CarInsuranceQualification.exe
+C:\Users\Labgrove1\source\repos\CarInsuranceQualification\CarInsuranceQualification\obj\Debug\CarInsuranceQualification.pdb
