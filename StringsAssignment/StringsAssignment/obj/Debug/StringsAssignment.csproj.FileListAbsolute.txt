@@ -1,0 +1,7 @@
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\StringsAssignment\StringsAssignment\bin\Debug\StringsAssignment.exe.config
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\StringsAssignment\StringsAssignment\bin\Debug\StringsAssignment.exe
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\StringsAssignment\StringsAssignment\bin\Debug\StringsAssignment.pdb
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\StringsAssignment\StringsAssignment\obj\Debug\StringsAssignment.csproj.AssemblyReference.cache
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\StringsAssignment\StringsAssignment\obj\Debug\StringsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\StringsAssignment\StringsAssignment\obj\Debug\StringsAssignment.exe
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\StringsAssignment\StringsAssignment\obj\Debug\StringsAssignment.pdb
