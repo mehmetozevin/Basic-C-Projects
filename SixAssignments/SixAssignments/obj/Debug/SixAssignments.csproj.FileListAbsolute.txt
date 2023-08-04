@@ -1,0 +1,7 @@
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\SixAssignments\SixAssignments\bin\Debug\SixAssignments.exe.config
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\SixAssignments\SixAssignments\bin\Debug\SixAssignments.exe
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\SixAssignments\SixAssignments\bin\Debug\SixAssignments.pdb
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\SixAssignments\SixAssignments\obj\Debug\SixAssignments.csproj.AssemblyReference.cache
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\SixAssignments\SixAssignments\obj\Debug\SixAssignments.csproj.CoreCompileInputs.cache
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\SixAssignments\SixAssignments\obj\Debug\SixAssignments.exe
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\SixAssignments\SixAssignments\obj\Debug\SixAssignments.pdb
