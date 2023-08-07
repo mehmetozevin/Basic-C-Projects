@@ -1,0 +1,7 @@
+C:\Users\Labgrove1\source\repos\SubmitMethod\SubmitMethod\bin\Debug\SubmitMethod.exe.config
+C:\Users\Labgrove1\source\repos\SubmitMethod\SubmitMethod\bin\Debug\SubmitMethod.exe
+C:\Users\Labgrove1\source\repos\SubmitMethod\SubmitMethod\bin\Debug\SubmitMethod.pdb
+C:\Users\Labgrove1\source\repos\SubmitMethod\SubmitMethod\obj\Debug\SubmitMethod.csproj.AssemblyReference.cache
+C:\Users\Labgrove1\source\repos\SubmitMethod\SubmitMethod\obj\Debug\SubmitMethod.csproj.CoreCompileInputs.cache
+C:\Users\Labgrove1\source\repos\SubmitMethod\SubmitMethod\obj\Debug\SubmitMethod.exe
+C:\Users\Labgrove1\source\repos\SubmitMethod\SubmitMethod\obj\Debug\SubmitMethod.pdb
