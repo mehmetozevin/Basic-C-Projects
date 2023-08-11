@@ -1,0 +1,7 @@
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\TryAndCatchAssignment\TryAndCatchAssignment\obj\Debug\TryAndCatchAssignment.csproj.AssemblyReference.cache
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\TryAndCatchAssignment\TryAndCatchAssignment\obj\Debug\TryAndCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\TryAndCatchAssignment\TryAndCatchAssignment\bin\Debug\TryAndCatchAssignment.exe.config
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\TryAndCatchAssignment\TryAndCatchAssignment\bin\Debug\TryAndCatchAssignment.exe
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\TryAndCatchAssignment\TryAndCatchAssignment\bin\Debug\TryAndCatchAssignment.pdb
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\TryAndCatchAssignment\TryAndCatchAssignment\obj\Debug\TryAndCatchAssignment.exe
+C:\Users\Labgrove1\Desktop\Basic_C#_Programs\TryAndCatchAssignment\TryAndCatchAssignment\obj\Debug\TryAndCatchAssignment.pdb
